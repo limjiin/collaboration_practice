@@ -1,5 +1,5 @@
 # Welcome to Team WanJooHaGo SipJo
-### Our goal is to be decent data analysts
+## Our goal is to be decent data analysts
 
 ## Hi, I'm Jin. I like taking a walk and watching moives.
 
